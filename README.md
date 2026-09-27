@@ -95,6 +95,61 @@ Projeto desenvolvido como estudo de integração de chatbots com WhatsApp usando
 8. **Teste**: mande uma mensagem pelo WhatsApp para o número do Sandbox da Twilio. O bot deve responder automaticamente com o menu de atendimento!
 
 ## 💬 Exemplo de conversa
+[20:28] **Você:** oi
 
-<img width="1321" height="615" alt="image" src="https://github.com/user-attachments/assets/d0b0fb7a-1115-4592-bbca-b7448844cf61" />
+[20:28] **PhishGuard:** Não entendi 🤔. 👋 Olá! Bem-vindo(a) ao Consultório Saúde & Bem-Estar.
+
+Digite o número da opção desejada:
+1️⃣ Agendar consulta
+2️⃣ Consultar horários disponíveis
+3️⃣ Cancelar consulta
+4️⃣ Perguntas frequentes
+5️⃣ Informações do consultório
+6️⃣ Falar com atendente humano
+
+A qualquer momento, digite menu para voltar aqui.
+
+[20:29] **Você:** 1
+
+[20:29] **PhishGuard:** 📅 Vamos agendar sua consulta!
+
+Qual o seu nome completo?
+
+[20:30] **Você:** Axiel Rodrigues Rosa
+
+[20:30] **PhishGuard:** Para qual data você quer agendar? (DD/MM/AAAA)
+
+[20:37] **Você:** 25/11/2026
+
+[20:37] **PhishGuard:** Horários disponíveis em 25/11/2026:
+1. 08:00
+2. 09:00
+3. 10:00
+4. 11:00
+5. 14:00
+6. 15:00
+7. 16:00
+8. 17:00
+
+Digite o número do horário desejado.
+
+[20:38] **Você:** 6
+
+[20:38] **PhishGuard:** Qual a especialidade ou motivo da consulta?
+
+[20:38] **Você:** Clínico geral
+
+[20:38] **PhishGuard:** ✅ Consulta agendada com sucesso!
+Paciente: Axiel Rodrigues Rosa
+Data: 25/11/2026 às 15:00
+Especialidade: Clínico geral
+
+Digite menu para voltar ao início.
+
+[21:33] **Você:** Boa Noite
+
+[21:33] **PhishGuard:** ✅ Consulta agendada com sucesso!
+Paciente: Axiel Rodrigues Rosa
+Data: 25/11/2026 às 15:00
+Especialidade: Boa Noite
 
