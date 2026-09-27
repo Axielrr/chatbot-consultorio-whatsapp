@@ -20,3 +20,7 @@ Chatbot de atendimento automatizado para consultórios médicos/odontológicos, 
 - **ngrok** — exposição do servidor local para a internet (ambiente de desenvolvimento)
 
 ## 📂 Estrutura do projeto
+├── chatbot_consultorio.py # Versão de terminal (console) do chatbot
+├── app_whatsapp.py # Versão integrada ao WhatsApp via Twilio (Flask)
+├── requirements.txt # Dependências do projeto
+└── README.md
