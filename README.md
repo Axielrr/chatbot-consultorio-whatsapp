@@ -95,3 +95,6 @@ Projeto desenvolvido como estudo de integração de chatbots com WhatsApp usando
 8. **Teste**: mande uma mensagem pelo WhatsApp para o número do Sandbox da Twilio. O bot deve responder automaticamente com o menu de atendimento!
 
 ## 💬 Exemplo de conversa
+
+<img width="1321" height="615" alt="image" src="https://github.com/user-attachments/assets/d0b0fb7a-1115-4592-bbca-b7448844cf61" />
+
